@@ -5,12 +5,1524 @@
     "frequency": "hourly",
     "data": [
       {
+        "period": "2025-12-19T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "74118",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "78709",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "78346",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "79883",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "82324",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "82897",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "82849",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "82618",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "82984",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "84964",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "86394",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "86594",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "86177",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "84589",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "86696",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "87812",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "88518",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "90228",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "89798",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "89663",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "87842",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "87016",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "85499",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "79090",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "70488",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "65179",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "62299",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "58652",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "55731",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "53074",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "50684",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "51210",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "53182",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "55634",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "57880",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "59339",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "60948",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "65641",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "68817",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "70751",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "74463",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "77756",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "78744",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "80668",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "83347",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "83461",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "81486",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "81006",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "79967",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "79109",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "77751",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "73795",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "69328",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "66754",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "66593",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "68529",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "72341",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "75907",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "75206",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "73351",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "70015",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "68077",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "68409",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "68467",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "68453",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "68099",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "67458",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "66766",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "65171",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "62786",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "59939",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "55330",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "51203",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "50130",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "51824",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "52987",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "55403",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "58228",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "63355",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "67796",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "71769",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "74100",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "76467",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "75401",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "74883",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "71783",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "69333",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "68084",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "66179",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "65180",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "64866",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "64055",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "62464",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "61521",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "60049",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "56774",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "51593",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "47870",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "45072",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "42949",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "40933",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "39991",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "39023",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "39236",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "44804",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "49868",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "52675",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "56726",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "62044",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "67083",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "69828",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "72552",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "75818",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "78216",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "79841",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "79114",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "77862",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "73744",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "66721",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "61644",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "57630",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "54834",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "51595",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "48913",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "45510",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "40547",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "37164",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "36516",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "36985",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "39629",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "40787",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "41734",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "43454",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "44414",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "47534",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "50527",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "54588",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "56613",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "57867",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "59538",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "60044",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "60111",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "58932",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "55424",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "49751",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "47450",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "47916",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "48419",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "47199",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "46029",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "45188",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "43007",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "43075",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "47814",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "50581",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "51930",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "52174",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "51417",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "52483",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "54029",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "55224",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "56754",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "59701",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "60810",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "62679",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "63234",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "62272",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "WND",
+        "type-name": "Wind",
+        "value": "58770",
+        "value-units": "megawatthours"
+      },
+      {
         "period": "2025-12-12T00",
         "respondent": "US48",
         "respondent-name": "United States Lower 48",
         "fueltype": "WND",
         "type-name": "Wind",
-        "value": "51644",
+        "value": "51764",
         "value-units": "megawatthours"
       },
       {
@@ -19,7 +1531,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "WND",
         "type-name": "Wind",
-        "value": "49117",
+        "value": "49267",
         "value-units": "megawatthours"
       },
       {
@@ -28,7 +1540,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "WND",
         "type-name": "Wind",
-        "value": "49429",
+        "value": "49734",
         "value-units": "megawatthours"
       },
       {
@@ -37,7 +1549,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "WND",
         "type-name": "Wind",
-        "value": "48979",
+        "value": "49324",
         "value-units": "megawatthours"
       },
       {
@@ -46,7 +1558,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "WND",
         "type-name": "Wind",
-        "value": "48182",
+        "value": "48494",
         "value-units": "megawatthours"
       },
       {
@@ -55,7 +1567,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "WND",
         "type-name": "Wind",
-        "value": "48211",
+        "value": "48425",
         "value-units": "megawatthours"
       },
       {
@@ -64,7 +1576,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "WND",
         "type-name": "Wind",
-        "value": "49080",
+        "value": "49293",
         "value-units": "megawatthours"
       },
       {
@@ -73,7 +1585,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "WND",
         "type-name": "Wind",
-        "value": "50198",
+        "value": "50392",
         "value-units": "megawatthours"
       },
       {
@@ -82,7 +1594,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "WND",
         "type-name": "Wind",
-        "value": "53301",
+        "value": "53456",
         "value-units": "megawatthours"
       },
       {
@@ -100,7 +1612,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "WND",
         "type-name": "Wind",
-        "value": "64355",
+        "value": "64251",
         "value-units": "megawatthours"
       },
       {
@@ -109,7 +1621,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "WND",
         "type-name": "Wind",
-        "value": "64509",
+        "value": "64308",
         "value-units": "megawatthours"
       },
       {
@@ -118,7 +1630,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "WND",
         "type-name": "Wind",
-        "value": "63683",
+        "value": "63512",
         "value-units": "megawatthours"
       },
       {
@@ -127,7 +1639,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "WND",
         "type-name": "Wind",
-        "value": "63022",
+        "value": "62824",
         "value-units": "megawatthours"
       },
       {
@@ -136,7 +1648,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "WND",
         "type-name": "Wind",
-        "value": "60992",
+        "value": "60754",
         "value-units": "megawatthours"
       },
       {
@@ -145,7 +1657,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "WND",
         "type-name": "Wind",
-        "value": "58668",
+        "value": "58682",
         "value-units": "megawatthours"
       },
       {
@@ -4980,1518 +6492,6 @@
         "type-name": "Wind",
         "value": "22009",
         "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "22332",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "23406",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "23690",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "24313",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "26079",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "28721",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "31356",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "34554",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "41145",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "47556",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "49618",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "53001",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "56314",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "59923",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "61768",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "67315",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "67009",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "72342",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "74762",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "75728",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "75286",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "73852",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "72723",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "70823",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "72088",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "72711",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "71384",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "68835",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "66622",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "64018",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "63251",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "62907",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "67567",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "71430",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "70642",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "68639",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "67328",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "65665",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "65154",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "63625",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "73599",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "66251",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "65355",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "62876",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "60341",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "56323",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "50302",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "42758",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "38816",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "38369",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "35953",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "33148",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "31977",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "32395",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "33395",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "33208",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "38046",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "44642",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "48005",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "49964",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "52647",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "56373",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "58447",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "80181",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "68198",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "65109",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "66641",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "68946",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "69049",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "67367",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "63547",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "56811",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "54544",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "56250",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "60964",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "65584",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "66573",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "65324",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "64695",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "66041",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "72533",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "78975",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "80307",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "78909",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "80109",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "82818",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "85459",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "77631",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "82571",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "87326",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "87512",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "86546",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "84707",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "80233",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "71713",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "62824",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "58872",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "55372",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "49529",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "43224",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "36940",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "34048",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "36781",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "44215",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "55278",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "63711",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "66246",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "67947",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "70022",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "72764",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "74706",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "69418",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "73914",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "79183",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "79103",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "77287",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "72589",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "66656",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "58834",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "48414",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "45089",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "45426",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "45106",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "44435",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "44101",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "42897",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "41805",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "43594",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "51887",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "58732",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "61128",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "62473",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "62937",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "62540",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "62149",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "64837",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "76207",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "66199",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "65775",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "65302",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "63350",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "58509",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "52172",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "44500",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "41638",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "43227",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "43747",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "43098",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "40903",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "37883",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "34484",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "36593",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "45138",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "52719",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "56746",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "60024",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "61889",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "63299",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "64829",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "74562",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "65386",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "69007",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "71122",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "72169",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "74156",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "73748",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "74651",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "WND",
-        "type-name": "Wind",
-        "value": "70220",
-        "value-units": "megawatthours"
       }
     ],
     "description": "Hourly net generation by balancing authority and energy source.  \n    Source: Form EIA-930\n    Product: Hourly Electric Grid Monitor"
@@ -6511,8 +6511,8 @@
           "WND"
         ]
       },
-      "start": "2025-11-12",
-      "end": "2025-12-12",
+      "start": "2025-11-19",
+      "end": "2025-12-19",
       "sort": [
         {
           "column": "period",
