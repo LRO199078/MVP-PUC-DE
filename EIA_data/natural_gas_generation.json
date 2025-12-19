@@ -5,12 +5,1524 @@
     "frequency": "hourly",
     "data": [
       {
+        "period": "2025-12-19T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "190593",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "179005",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "165861",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "158236",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "153630",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "150526",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "149437",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "151644",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "155612",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "162862",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "168976",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "168608",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "160542",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "152067",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "147245",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "146833",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "146870",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "149066",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "154792",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "165802",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "175817",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "184551",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "189274",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "192260",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "194215",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "188560",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "179563",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "170473",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "167257",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "167261",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "170366",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "176009",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "185670",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "195930",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "204704",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "205092",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "194658",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "179374",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "169821",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "169745",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "169506",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "171845",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "178519",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "188763",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "195998",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "203950",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "207542",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "208728",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "206790",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "195864",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "181464",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "167660",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "163419",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "165109",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "170922",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "178823",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "188575",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "207545",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "228857",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "232556",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "226011",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "213445",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "206257",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "204570",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "204577",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "208085",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "214107",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "224169",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "235329",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "245927",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "251537",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "255347",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "252759",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "242140",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "220692",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "208557",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "203139",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "205587",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "206550",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "211074",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "218319",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "236849",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "255930",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "259928",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "247991",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "235817",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "229299",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "225697",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "225874",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "228433",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "230127",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "235654",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "243216",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "248965",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "251625",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "251331",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "248847",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "236082",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "213395",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "195107",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "191145",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "193325",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "195614",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "196936",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "194775",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "199909",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "199603",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "189486",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "176102",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "167086",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "162395",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "161998",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "161207",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "163684",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "168259",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "176129",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "184753",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "190645",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "195973",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "199901",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "200920",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "196828",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "187328",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "180888",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "176059",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "177225",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "178923",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "179917",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "183815",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "193564",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "201954",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "201942",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "194524",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "191019",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "188057",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "187105",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "186165",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "187231",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "190765",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "198006",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "204746",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "210075",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "213446",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "217565",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "219732",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "211019",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "193794",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "181257",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "175431",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "174673",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "176175",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "184118",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "192660",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "207454",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "221228",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "223602",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "213031",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "198874",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "190631",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "188266",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "188446",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "191014",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "195440",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "204670",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "213809",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "221047",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "225116",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "NG",
+        "type-name": "Natural Gas",
+        "value": "227377",
+        "value-units": "megawatthours"
+      },
+      {
         "period": "2025-12-12T00",
         "respondent": "US48",
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "222887",
+        "value": "224739",
         "value-units": "megawatthours"
       },
       {
@@ -19,7 +1531,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "210659",
+        "value": "212359",
         "value-units": "megawatthours"
       },
       {
@@ -28,7 +1540,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "193837",
+        "value": "195331",
         "value-units": "megawatthours"
       },
       {
@@ -37,7 +1549,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "180313",
+        "value": "181405",
         "value-units": "megawatthours"
       },
       {
@@ -46,7 +1558,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "177554",
+        "value": "178570",
         "value-units": "megawatthours"
       },
       {
@@ -55,7 +1567,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "175413",
+        "value": "176523",
         "value-units": "megawatthours"
       },
       {
@@ -64,7 +1576,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "175805",
+        "value": "176960",
         "value-units": "megawatthours"
       },
       {
@@ -73,7 +1585,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "177904",
+        "value": "179110",
         "value-units": "megawatthours"
       },
       {
@@ -82,7 +1594,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "182861",
+        "value": "184041",
         "value-units": "megawatthours"
       },
       {
@@ -91,7 +1603,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "195460",
+        "value": "196758",
         "value-units": "megawatthours"
       },
       {
@@ -100,7 +1612,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "212321",
+        "value": "213976",
         "value-units": "megawatthours"
       },
       {
@@ -109,7 +1621,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "213485",
+        "value": "215203",
         "value-units": "megawatthours"
       },
       {
@@ -118,7 +1630,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "202215",
+        "value": "203908",
         "value-units": "megawatthours"
       },
       {
@@ -127,7 +1639,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "188064",
+        "value": "189632",
         "value-units": "megawatthours"
       },
       {
@@ -136,7 +1648,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "180290",
+        "value": "181692",
         "value-units": "megawatthours"
       },
       {
@@ -145,7 +1657,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "178659",
+        "value": "179987",
         "value-units": "megawatthours"
       },
       {
@@ -154,7 +1666,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "176560",
+        "value": "177868",
         "value-units": "megawatthours"
       },
       {
@@ -163,7 +1675,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "180581",
+        "value": "181879",
         "value-units": "megawatthours"
       },
       {
@@ -172,7 +1684,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "186330",
+        "value": "187657",
         "value-units": "megawatthours"
       },
       {
@@ -181,7 +1693,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "197401",
+        "value": "199013",
         "value-units": "megawatthours"
       },
       {
@@ -190,7 +1702,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "206057",
+        "value": "207653",
         "value-units": "megawatthours"
       },
       {
@@ -199,7 +1711,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "212993",
+        "value": "214476",
         "value-units": "megawatthours"
       },
       {
@@ -208,7 +1720,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "218860",
+        "value": "220373",
         "value-units": "megawatthours"
       },
       {
@@ -217,7 +1729,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "223071",
+        "value": "224600",
         "value-units": "megawatthours"
       },
       {
@@ -226,7 +1738,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "219346",
+        "value": "220795",
         "value-units": "megawatthours"
       },
       {
@@ -235,7 +1747,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "206275",
+        "value": "207632",
         "value-units": "megawatthours"
       },
       {
@@ -244,7 +1756,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "185998",
+        "value": "187296",
         "value-units": "megawatthours"
       },
       {
@@ -253,7 +1765,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "173100",
+        "value": "174102",
         "value-units": "megawatthours"
       },
       {
@@ -262,7 +1774,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "166526",
+        "value": "167456",
         "value-units": "megawatthours"
       },
       {
@@ -271,7 +1783,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "165699",
+        "value": "166593",
         "value-units": "megawatthours"
       },
       {
@@ -280,7 +1792,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "164032",
+        "value": "164828",
         "value-units": "megawatthours"
       },
       {
@@ -289,7 +1801,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "163007",
+        "value": "163772",
         "value-units": "megawatthours"
       },
       {
@@ -298,7 +1810,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "165884",
+        "value": "166533",
         "value-units": "megawatthours"
       },
       {
@@ -307,7 +1819,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "175436",
+        "value": "176294",
         "value-units": "megawatthours"
       },
       {
@@ -316,7 +1828,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "188673",
+        "value": "189721",
         "value-units": "megawatthours"
       },
       {
@@ -325,7 +1837,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "189965",
+        "value": "191527",
         "value-units": "megawatthours"
       },
       {
@@ -334,7 +1846,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "181989",
+        "value": "183758",
         "value-units": "megawatthours"
       },
       {
@@ -343,7 +1855,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "170011",
+        "value": "171752",
         "value-units": "megawatthours"
       },
       {
@@ -352,7 +1864,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "165396",
+        "value": "167131",
         "value-units": "megawatthours"
       },
       {
@@ -361,7 +1873,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "163289",
+        "value": "164840",
         "value-units": "megawatthours"
       },
       {
@@ -370,7 +1882,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "161974",
+        "value": "163361",
         "value-units": "megawatthours"
       },
       {
@@ -379,7 +1891,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "164702",
+        "value": "165978",
         "value-units": "megawatthours"
       },
       {
@@ -388,7 +1900,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "168203",
+        "value": "169972",
         "value-units": "megawatthours"
       },
       {
@@ -397,7 +1909,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "178926",
+        "value": "180780",
         "value-units": "megawatthours"
       },
       {
@@ -406,7 +1918,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "188980",
+        "value": "190861",
         "value-units": "megawatthours"
       },
       {
@@ -415,7 +1927,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "199123",
+        "value": "201041",
         "value-units": "megawatthours"
       },
       {
@@ -424,7 +1936,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "206282",
+        "value": "208211",
         "value-units": "megawatthours"
       },
       {
@@ -433,7 +1945,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "NG",
         "type-name": "Natural Gas",
-        "value": "209826",
+        "value": "211705",
         "value-units": "megawatthours"
       },
       {
@@ -4980,1518 +6492,6 @@
         "type-name": "Natural Gas",
         "value": "238258",
         "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "233802",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "221834",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "211608",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "203981",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "197265",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "189156",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "183745",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "183283",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "185940",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "195663",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "201535",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "192332",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "176421",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "167595",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "164788",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "151657",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "158973",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "173533",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "176595",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "188750",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "199532",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "206361",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "209804",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "210303",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "199365",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "183510",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "166803",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "161488",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "160955",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "159019",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "156282",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "155618",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "160124",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "173755",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "181778",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "173668",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "159794",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "151696",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "149001",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "132201",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "136947",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "158761",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "164288",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "175931",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "186382",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "194055",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "198884",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "206886",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "200662",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "178782",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "159948",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "152521",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "145820",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "140422",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "136911",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "133976",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "133653",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "142814",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "146284",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "141837",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "137304",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "133857",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "134484",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "132011",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "143828",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "147077",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "150839",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "157878",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "164525",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "171781",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "178003",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "182928",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "176861",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "159443",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "143182",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "135010",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "130049",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "127886",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "126367",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "126006",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "127610",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "133090",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "138376",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "137696",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "132887",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "130916",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "131243",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "148789",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "151717",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "152331",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "155495",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "163366",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "172998",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "179794",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "188119",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "195502",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "188845",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "172551",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "160995",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "158045",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "155820",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "155982",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "152262",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "148652",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "151393",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "166493",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "179272",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "171311",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "158334",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "150617",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "146599",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "150580",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "150148",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "158190",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "162760",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "172963",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "183537",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "192042",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "198883",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "199197",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "189611",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "171006",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "156496",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "153597",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "151812",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "151274",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "147673",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "148978",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "155194",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "171011",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "180687",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "172887",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "158876",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "152760",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "153551",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "157984",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "161045",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "164050",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "167464",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "175253",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "185977",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "193839",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "199746",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "201168",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "191421",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "171108",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "155530",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "150197",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "150789",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "153098",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "155192",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "158136",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "165406",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "185414",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "196047",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "187172",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "171693",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "164159",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "162416",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "171824",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "170368",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "171987",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "175828",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "185109",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "192739",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "199353",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "199816",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "NG",
-        "type-name": "Natural Gas",
-        "value": "198303",
-        "value-units": "megawatthours"
       }
     ],
     "description": "Hourly net generation by balancing authority and energy source.  \n    Source: Form EIA-930\n    Product: Hourly Electric Grid Monitor"
@@ -6511,8 +6511,8 @@
           "NG"
         ]
       },
-      "start": "2025-11-12",
-      "end": "2025-12-12",
+      "start": "2025-11-19",
+      "end": "2025-12-19",
       "sort": [
         {
           "column": "period",

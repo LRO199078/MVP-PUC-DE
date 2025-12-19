@@ -5,12 +5,1524 @@
     "frequency": "hourly",
     "data": [
       {
+        "period": "2025-12-19T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "513811",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "512216",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "502961",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "494825",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "492645",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "490954",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "491233",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "489107",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "497039",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "499318",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "499294",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "491749",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "470317",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "448565",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "439012",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "439211",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "442642",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "451711",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "463786",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "480008",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "496335",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "511080",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "519952",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "519671",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "516219",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "508922",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "496577",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "491864",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "491829",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "493911",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "500341",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "508287",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "515808",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "522496",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "523474",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "516418",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "496028",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "473178",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "461838",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "462383",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "466920",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "475746",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "488571",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "508454",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "527853",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "544185",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "552115",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "553652",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "549334",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "537807",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "520985",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "513813",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "514799",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "520101",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "530753",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "540629",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "557596",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "572144",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "583822",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "578816",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "556477",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "530885",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "518179",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "515735",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "517212",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "524675",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "536450",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "551782",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "569144",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "585632",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "595255",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "595229",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "587914",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "574735",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "558245",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "552858",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "555918",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "565508",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "566995",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "591309",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "603950",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "616321",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "621012",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "611441",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "584634",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "558407",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "543136",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "538061",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "538428",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "543542",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "550741",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "564658",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "578907",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "591521",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "597908",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "593468",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "584430",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "566163",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "541273",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "526587",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "524356",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "526449",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "528030",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "526227",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "523646",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "517022",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "502623",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "483993",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "467947",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "458486",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "452366",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "453025",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "456600",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "463965",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "474330",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "487267",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "498685",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "507564",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "513457",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "516092",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "513415",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "507384",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "496120",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "489628",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "489035",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "492257",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "496083",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "498883",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "500844",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "504115",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "501576",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "490630",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "475994",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "466461",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "462166",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "462405",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "465614",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "473778",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "484514",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "498602",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "510923",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "519546",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "527122",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "529479",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "528439",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "523265",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "506098",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "497246",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "497509",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "499009",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "505703",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "514015",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "523037",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "532302",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "539136",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "531683",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "507304",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "481582",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "468953",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "466885",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "469614",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "477131",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "488362",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "504845",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "524411",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "539222",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "547535",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "type": "D",
+        "type-name": "Demand",
+        "value": "547547",
+        "value-units": "megawatthours"
+      },
+      {
         "period": "2025-12-12T00",
         "respondent": "US48",
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "538284",
+        "value": "541365",
         "value-units": "megawatthours"
       },
       {
@@ -19,7 +1531,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "527590",
+        "value": "530513",
         "value-units": "megawatthours"
       },
       {
@@ -28,7 +1540,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "509270",
+        "value": "512108",
         "value-units": "megawatthours"
       },
       {
@@ -37,7 +1549,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "497317",
+        "value": "500082",
         "value-units": "megawatthours"
       },
       {
@@ -46,7 +1558,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "499358",
+        "value": "502023",
         "value-units": "megawatthours"
       },
       {
@@ -55,7 +1567,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "502836",
+        "value": "505523",
         "value-units": "megawatthours"
       },
       {
@@ -64,7 +1576,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "507814",
+        "value": "510565",
         "value-units": "megawatthours"
       },
       {
@@ -73,7 +1585,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "513663",
+        "value": "516459",
         "value-units": "megawatthours"
       },
       {
@@ -82,7 +1594,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "519767",
+        "value": "522678",
         "value-units": "megawatthours"
       },
       {
@@ -91,7 +1603,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "528248",
+        "value": "531291",
         "value-units": "megawatthours"
       },
       {
@@ -100,7 +1612,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "532632",
+        "value": "535816",
         "value-units": "megawatthours"
       },
       {
@@ -109,7 +1621,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "522145",
+        "value": "525360",
         "value-units": "megawatthours"
       },
       {
@@ -118,7 +1630,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "494927",
+        "value": "497988",
         "value-units": "megawatthours"
       },
       {
@@ -127,7 +1639,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "466573",
+        "value": "469447",
         "value-units": "megawatthours"
       },
       {
@@ -136,7 +1648,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "453001",
+        "value": "455685",
         "value-units": "megawatthours"
       },
       {
@@ -145,7 +1657,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "449352",
+        "value": "451929",
         "value-units": "megawatthours"
       },
       {
@@ -154,7 +1666,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "450852",
+        "value": "453432",
         "value-units": "megawatthours"
       },
       {
@@ -163,7 +1675,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "458445",
+        "value": "460996",
         "value-units": "megawatthours"
       },
       {
@@ -172,7 +1684,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "470448",
+        "value": "473071",
         "value-units": "megawatthours"
       },
       {
@@ -181,7 +1693,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "488103",
+        "value": "491070",
         "value-units": "megawatthours"
       },
       {
@@ -190,7 +1702,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "505777",
+        "value": "508625",
         "value-units": "megawatthours"
       },
       {
@@ -199,7 +1711,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "520759",
+        "value": "523771",
         "value-units": "megawatthours"
       },
       {
@@ -208,7 +1720,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "530240",
+        "value": "533406",
         "value-units": "megawatthours"
       },
       {
@@ -217,7 +1729,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "528267",
+        "value": "536517",
         "value-units": "megawatthours"
       },
       {
@@ -226,7 +1738,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "529633",
+        "value": "532754",
         "value-units": "megawatthours"
       },
       {
@@ -235,7 +1747,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "521361",
+        "value": "524375",
         "value-units": "megawatthours"
       },
       {
@@ -244,7 +1756,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "509190",
+        "value": "511683",
         "value-units": "megawatthours"
       },
       {
@@ -253,7 +1765,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "503113",
+        "value": "505910",
         "value-units": "megawatthours"
       },
       {
@@ -262,7 +1774,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "501327",
+        "value": "504173",
         "value-units": "megawatthours"
       },
       {
@@ -271,7 +1783,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "504318",
+        "value": "507199",
         "value-units": "megawatthours"
       },
       {
@@ -280,7 +1792,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "507687",
+        "value": "510624",
         "value-units": "megawatthours"
       },
       {
@@ -289,7 +1801,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "513243",
+        "value": "516310",
         "value-units": "megawatthours"
       },
       {
@@ -298,7 +1810,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "518843",
+        "value": "521464",
         "value-units": "megawatthours"
       },
       {
@@ -307,7 +1819,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "526516",
+        "value": "530284",
         "value-units": "megawatthours"
       },
       {
@@ -316,7 +1828,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "532357",
+        "value": "536500",
         "value-units": "megawatthours"
       },
       {
@@ -325,7 +1837,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "525031",
+        "value": "529342",
         "value-units": "megawatthours"
       },
       {
@@ -334,7 +1846,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "501766",
+        "value": "505954",
         "value-units": "megawatthours"
       },
       {
@@ -343,7 +1855,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "478162",
+        "value": "482072",
         "value-units": "megawatthours"
       },
       {
@@ -352,7 +1864,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "466992",
+        "value": "470690",
         "value-units": "megawatthours"
       },
       {
@@ -361,7 +1873,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "464513",
+        "value": "468087",
         "value-units": "megawatthours"
       },
       {
@@ -370,7 +1882,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "467700",
+        "value": "471241",
         "value-units": "megawatthours"
       },
       {
@@ -379,7 +1891,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "476651",
+        "value": "480138",
         "value-units": "megawatthours"
       },
       {
@@ -388,7 +1900,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "488032",
+        "value": "491563",
         "value-units": "megawatthours"
       },
       {
@@ -397,7 +1909,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "505226",
+        "value": "508825",
         "value-units": "megawatthours"
       },
       {
@@ -406,7 +1918,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "524978",
+        "value": "528635",
         "value-units": "megawatthours"
       },
       {
@@ -415,7 +1927,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "541944",
+        "value": "545716",
         "value-units": "megawatthours"
       },
       {
@@ -424,7 +1936,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "551552",
+        "value": "555340",
         "value-units": "megawatthours"
       },
       {
@@ -433,7 +1945,7 @@
         "respondent-name": "United States Lower 48",
         "type": "D",
         "type-name": "Demand",
-        "value": "553031",
+        "value": "556764",
         "value-units": "megawatthours"
       },
       {
@@ -4980,1518 +6492,6 @@
         "type-name": "Demand",
         "value": "500884",
         "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "498680",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "493227",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "488005",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "485588",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "479548",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "470811",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "472847",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "471571",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "469149",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "470948",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "468436",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "448569",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "423118",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "412288",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "410650",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "415350",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "424151",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "434441",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "449884",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "469673",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "486451",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "498313",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "505107",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "504683",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "499075",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "488162",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "479111",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "475481",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "472644",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "469612",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "466548",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "464064",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "462911",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "462249",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "456182",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "433471",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "406667",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "391813",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "386438",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "390152",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "396614",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "407054",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "422983",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "440173",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "454057",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "465092",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "470409",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "472897",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "465729",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "454714",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "443836",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "434689",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "426296",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "417334",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "409360",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "401588",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "395067",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "387911",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "376986",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "367958",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "363008",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "361550",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "364297",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "370535",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "377110",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "391809",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "404620",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "419636",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "431663",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "442037",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "450582",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "454274",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "452679",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "446627",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "439382",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "431923",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "430011",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "425860",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "420672",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "415886",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "410983",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "405916",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "399769",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "389818",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "381223",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "379361",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "381292",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "388918",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "398810",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "410551",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "424454",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "439391",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "452681",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "462165",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "470267",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "475990",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "475841",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "468501",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "450713",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "457097",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "452771",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "450995",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "447368",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "445811",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "449781",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "455016",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "455940",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "437310",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "413051",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "401163",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "398424",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "406267",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "414195",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "422374",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "436136",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "453936",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "468872",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "478943",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "485465",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "484607",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "479051",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "468094",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "461016",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "457745",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "457531",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "455943",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "453657",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "453058",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "455942",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "460619",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "459050",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "438231",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "412748",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "400688",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "399463",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "406775",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "413673",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "423486",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "440373",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "457489",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "474081",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "483501",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "488871",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "487823",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "479740",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "467657",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "458804",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "454916",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "455628",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "459158",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "464452",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "471678",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "479587",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "488279",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "488641",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "468646",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "443295",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "430199",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "428184",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "433917",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "442381",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "452389",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "467015",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "485800",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "503313",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "514223",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "518055",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "type": "D",
-        "type-name": "Demand",
-        "value": "514438",
-        "value-units": "megawatthours"
       }
     ],
     "description": "Hourly demand, day-ahead demand forecast, net generation, and interchange by balancing authority.  \n    Source: Form EIA-930\n    Product: Hourly Electric Grid Monitor"
@@ -6511,8 +6511,8 @@
           "D"
         ]
       },
-      "start": "2025-11-12",
-      "end": "2025-12-12",
+      "start": "2025-11-19",
+      "end": "2025-12-19",
       "sort": [
         {
           "column": "period",

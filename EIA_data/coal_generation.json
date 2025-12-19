@@ -5,12 +5,1524 @@
     "frequency": "hourly",
     "data": [
       {
+        "period": "2025-12-19T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "91211",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "85684",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "82679",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "81233",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "80392",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "78696",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "78766",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "81005",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "83415",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "86910",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "88435",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "86215",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "81606",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "77610",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "74585",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "74287",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "74638",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "76663",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "79577",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "82969",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "86384",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "89449",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "91959",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "94081",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-18T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "93774",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "90089",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "85340",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "82780",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "83881",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "84822",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "87975",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "92424",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "96412",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "101288",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "102213",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "99757",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "94309",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "90212",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "88020",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "87214",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "87931",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "88530",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "89973",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "94479",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "99662",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "102060",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "103181",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "104087",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-17T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "102849",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "96731",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "89786",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "85871",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "87241",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "88359",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "90661",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "94402",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "99691",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "106961",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "109813",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "109871",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "107624",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "106569",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "106611",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "106918",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "107661",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "109424",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "112299",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "114660",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "116049",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "118008",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "118194",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "118050",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-16T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "116153",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "111734",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "105855",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "103040",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "103567",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "105631",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "107186",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "109416",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "113687",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "114625",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "114039",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "111350",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "108704",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "108271",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "107112",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "107547",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "109257",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "111184",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "113443",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "116388",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "117613",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "118699",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "119781",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "118917",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-15T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "117867",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "112990",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "107111",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "105139",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "106884",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "108938",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "110577",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "110700",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "110892",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "111225",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "107957",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "102044",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "96417",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "93920",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "92709",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "91342",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "90371",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "91539",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "92258",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "95237",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "97647",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "101007",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "103740",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "105678",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-14T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "104355",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "99551",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "94456",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "93005",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "94597",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "97781",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "100366",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "102163",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "104525",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "107110",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "107917",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "105708",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "102048",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "98923",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "96394",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "94619",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "94147",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "96251",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "98749",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "102459",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "104461",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "104382",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "106152",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "106848",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-13T00",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "105401",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T23",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "101795",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T22",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "97173",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T21",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "95807",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T20",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "96213",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T19",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "97231",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T18",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "98952",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T17",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "100952",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T16",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "103351",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T15",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "104041",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T14",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "105409",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T13",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "104042",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T12",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "102219",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T11",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "100988",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T10",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "100142",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T09",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "99313",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T08",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "99341",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T07",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "101753",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T06",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "104267",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T05",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "104966",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T04",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "105712",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T03",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "105426",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T02",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "105224",
+        "value-units": "megawatthours"
+      },
+      {
+        "period": "2025-12-12T01",
+        "respondent": "US48",
+        "respondent-name": "United States Lower 48",
+        "fueltype": "COL",
+        "type-name": "Coal",
+        "value": "104438",
+        "value-units": "megawatthours"
+      },
+      {
         "period": "2025-12-12T00",
         "respondent": "US48",
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "102836",
+        "value": "103409",
         "value-units": "megawatthours"
       },
       {
@@ -19,7 +1531,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "99652",
+        "value": "100225",
         "value-units": "megawatthours"
       },
       {
@@ -28,7 +1540,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "95131",
+        "value": "95689",
         "value-units": "megawatthours"
       },
       {
@@ -37,7 +1549,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "93223",
+        "value": "93635",
         "value-units": "megawatthours"
       },
       {
@@ -46,7 +1558,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "93138",
+        "value": "93517",
         "value-units": "megawatthours"
       },
       {
@@ -55,7 +1567,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "93645",
+        "value": "94023",
         "value-units": "megawatthours"
       },
       {
@@ -64,7 +1576,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "95859",
+        "value": "96237",
         "value-units": "megawatthours"
       },
       {
@@ -73,7 +1585,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "97815",
+        "value": "98195",
         "value-units": "megawatthours"
       },
       {
@@ -82,7 +1594,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "100077",
+        "value": "100509",
         "value-units": "megawatthours"
       },
       {
@@ -91,7 +1603,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "101211",
+        "value": "101748",
         "value-units": "megawatthours"
       },
       {
@@ -100,7 +1612,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "101576",
+        "value": "102143",
         "value-units": "megawatthours"
       },
       {
@@ -109,7 +1621,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "100529",
+        "value": "101129",
         "value-units": "megawatthours"
       },
       {
@@ -118,7 +1630,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "96229",
+        "value": "96832",
         "value-units": "megawatthours"
       },
       {
@@ -127,7 +1639,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "92810",
+        "value": "93410",
         "value-units": "megawatthours"
       },
       {
@@ -136,7 +1648,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "91550",
+        "value": "92146",
         "value-units": "megawatthours"
       },
       {
@@ -145,7 +1657,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "90290",
+        "value": "90889",
         "value-units": "megawatthours"
       },
       {
@@ -154,7 +1666,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "91197",
+        "value": "91790",
         "value-units": "megawatthours"
       },
       {
@@ -163,7 +1675,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "93080",
+        "value": "93691",
         "value-units": "megawatthours"
       },
       {
@@ -172,7 +1684,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "96999",
+        "value": "97635",
         "value-units": "megawatthours"
       },
       {
@@ -181,7 +1693,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "100764",
+        "value": "101329",
         "value-units": "megawatthours"
       },
       {
@@ -190,7 +1702,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "104405",
+        "value": "104899",
         "value-units": "megawatthours"
       },
       {
@@ -199,7 +1711,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "106238",
+        "value": "106874",
         "value-units": "megawatthours"
       },
       {
@@ -208,7 +1720,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "106461",
+        "value": "107143",
         "value-units": "megawatthours"
       },
       {
@@ -217,7 +1729,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "105923",
+        "value": "106552",
         "value-units": "megawatthours"
       },
       {
@@ -226,7 +1738,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "103104",
+        "value": "103795",
         "value-units": "megawatthours"
       },
       {
@@ -235,7 +1747,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "97174",
+        "value": "97898",
         "value-units": "megawatthours"
       },
       {
@@ -244,7 +1756,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "91393",
+        "value": "92201",
         "value-units": "megawatthours"
       },
       {
@@ -253,7 +1765,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "86643",
+        "value": "87334",
         "value-units": "megawatthours"
       },
       {
@@ -262,7 +1774,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "84433",
+        "value": "85033",
         "value-units": "megawatthours"
       },
       {
@@ -271,7 +1783,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "83745",
+        "value": "84246",
         "value-units": "megawatthours"
       },
       {
@@ -280,7 +1792,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "85106",
+        "value": "85651",
         "value-units": "megawatthours"
       },
       {
@@ -289,7 +1801,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "87611",
+        "value": "88146",
         "value-units": "megawatthours"
       },
       {
@@ -298,7 +1810,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "91094",
+        "value": "91689",
         "value-units": "megawatthours"
       },
       {
@@ -307,7 +1819,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "94608",
+        "value": "95375",
         "value-units": "megawatthours"
       },
       {
@@ -316,7 +1828,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "95880",
+        "value": "96798",
         "value-units": "megawatthours"
       },
       {
@@ -325,7 +1837,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "93828",
+        "value": "94840",
         "value-units": "megawatthours"
       },
       {
@@ -334,7 +1846,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "90898",
+        "value": "91825",
         "value-units": "megawatthours"
       },
       {
@@ -343,7 +1855,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "88570",
+        "value": "89486",
         "value-units": "megawatthours"
       },
       {
@@ -352,7 +1864,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "87004",
+        "value": "87881",
         "value-units": "megawatthours"
       },
       {
@@ -361,7 +1873,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "86777",
+        "value": "87582",
         "value-units": "megawatthours"
       },
       {
@@ -370,7 +1882,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "87289",
+        "value": "88096",
         "value-units": "megawatthours"
       },
       {
@@ -379,7 +1891,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "88381",
+        "value": "89117",
         "value-units": "megawatthours"
       },
       {
@@ -388,7 +1900,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "91794",
+        "value": "92741",
         "value-units": "megawatthours"
       },
       {
@@ -397,7 +1909,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "95512",
+        "value": "96450",
         "value-units": "megawatthours"
       },
       {
@@ -406,7 +1918,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "98037",
+        "value": "98973",
         "value-units": "megawatthours"
       },
       {
@@ -415,7 +1927,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "98913",
+        "value": "99848",
         "value-units": "megawatthours"
       },
       {
@@ -424,7 +1936,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "98756",
+        "value": "99690",
         "value-units": "megawatthours"
       },
       {
@@ -433,7 +1945,7 @@
         "respondent-name": "United States Lower 48",
         "fueltype": "COL",
         "type-name": "Coal",
-        "value": "98649",
+        "value": "99594",
         "value-units": "megawatthours"
       },
       {
@@ -4980,1518 +6492,6 @@
         "type-name": "Coal",
         "value": "91820",
         "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "90413",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "89546",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "88948",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "89793",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "87621",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "87598",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "88612",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "88079",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "86281",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "85529",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "83300",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "79929",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "77396",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "77424",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "77943",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "66840",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "71293",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "78437",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "79785",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "80587",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "80802",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "81308",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "81353",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-18T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "80612",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "76655",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "70978",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "69300",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "68873",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "69905",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "71421",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "72051",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "73004",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "75172",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "78318",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "75596",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "70789",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "67792",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "67273",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "66937",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "61752",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "59669",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "69654",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "71128",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "72924",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "74427",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "76474",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "78405",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-17T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "79503",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "77046",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "71133",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "67637",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "66826",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "66704",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "64355",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "63133",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "63303",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "64734",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "68105",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "66601",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "63931",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "61956",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "60638",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "60519",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "59493",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "67025",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "67983",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "68304",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "70323",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "72795",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "74819",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "75770",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-16T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "76732",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "74535",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "69074",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "65350",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "63509",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "62468",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "62037",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "62610",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "62782",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "63259",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "64653",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "63824",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "61693",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "60411",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "59256",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "58785",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "68412",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "67758",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "65058",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "66139",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "69823",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "72104",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "74405",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "77437",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-15T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "78959",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "77789",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "74621",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "73914",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "75648",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "78183",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "78719",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "76599",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "72968",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "76057",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "80219",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "79288",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "75048",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "70963",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "68424",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "67958",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "71009",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "72927",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "74755",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "76225",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "79990",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "83547",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "86259",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "88596",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-14T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "88876",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "84973",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "78235",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "75132",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "75687",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "76255",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "75948",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "74855",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "74783",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "79198",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "84490",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "83068",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "77997",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "75020",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "73541",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "73283",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "78194",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "76395",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "79658",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "80801",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "83993",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "86701",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "89426",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "91772",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-13T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "91680",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T23",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "85316",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T22",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "77583",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T21",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "73057",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T20",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "73082",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T19",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "74428",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T18",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "76408",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T17",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "78603",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T16",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "79630",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T15",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "84370",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T14",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "89376",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T13",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "90924",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T12",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "87575",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T11",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "83956",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T10",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "82288",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T09",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "82282",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T08",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "81810",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T07",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "87221",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T06",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "86271",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T05",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "87398",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T04",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "90056",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T03",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "91459",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T02",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "92516",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T01",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "92287",
-        "value-units": "megawatthours"
-      },
-      {
-        "period": "2025-11-12T00",
-        "respondent": "US48",
-        "respondent-name": "United States Lower 48",
-        "fueltype": "COL",
-        "type-name": "Coal",
-        "value": "91241",
-        "value-units": "megawatthours"
       }
     ],
     "description": "Hourly net generation by balancing authority and energy source.  \n    Source: Form EIA-930\n    Product: Hourly Electric Grid Monitor"
@@ -6511,8 +6511,8 @@
           "COL"
         ]
       },
-      "start": "2025-11-12",
-      "end": "2025-12-12",
+      "start": "2025-11-19",
+      "end": "2025-12-19",
       "sort": [
         {
           "column": "period",
