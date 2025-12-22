@@ -1,5 +1,0 @@
-dataset,records,date_range,columns
-electricity_demand,721,2025-11-19 00:00:00 to 2025-12-19 00:00:00,"['period', 'respondent', 'respondent-name', 'type', 'type-name', 'value', 'value-units']"
-coal_generation,721,2025-11-19 00:00:00 to 2025-12-19 00:00:00,"['period', 'respondent', 'respondent-name', 'fueltype', 'type-name', 'value', 'value-units']"
-natural_gas_generation,721,2025-11-19 00:00:00 to 2025-12-19 00:00:00,"['period', 'respondent', 'respondent-name', 'fueltype', 'type-name', 'value', 'value-units']"
-wind_generation,721,2025-11-19 00:00:00 to 2025-12-19 00:00:00,"['period', 'respondent', 'respondent-name', 'fueltype', 'type-name', 'value', 'value-units']"
